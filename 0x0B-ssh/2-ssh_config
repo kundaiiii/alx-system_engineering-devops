@@ -1,5 +1,6 @@
-# school server config options
-Host 54.144.157.135
+#!/usr/bin/env bash
+## school server config options
+#Host 54.144.157.135
     IdentityFile ~/.ssh/school
     Protocol 2
 
