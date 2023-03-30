@@ -1,6 +1,4 @@
-#!/usr/bin/env bash
-## school server config options
-#Host 54.144.157.135
+# holberton server config options
+Host 3.80.18.239
     IdentityFile ~/.ssh/school
     Protocol 2
-
