@@ -1,0 +1,4 @@
+# server config options
+Host 54.227.122.183
+    IdentityFile ~/.ssh/school
+     PasswordAuthentication no
